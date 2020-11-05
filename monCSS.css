@@ -1,0 +1,107 @@
+span{
+    text-transform: capitalize;
+}
+
+div{
+    display: inline;
+    position: relative;
+    background-color: gray;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 25px;
+    float: left;
+}
+
+.samuel{
+    left: 150px;
+    top: 450px;
+}
+
+.damien{
+    left: 46px;
+    top: 370px;
+}
+
+.gaetan{
+    left: -58px;
+    top: 290px;
+}
+
+.yann{
+    left: -162px;
+    top: 210px;
+}
+
+.matthias{
+    left: -155px;
+    top: 120px;
+}
+
+.pierreYve{
+    left: -150px;
+    top: 120px;}
+
+.frederick{
+    left: -145px;
+    top: 120px;
+}
+
+.mickael1{
+    left: -140px;
+    top: 210px;}
+
+.amaury{
+    left: -244px;
+    top: 290px;}
+
+.chloe{
+    left: -348px;
+    top: 370px;
+}
+
+.laurie{
+    left: -452px;
+    top: 450px;
+}
+
+.elodie{
+    left: -556px;
+    top: 530px;
+}
+
+.jerome{
+    left: -884px;
+    top: 620px;
+}
+
+.clement{
+    left: -1050px;
+    top: 430px;
+}
+
+.jefferson{
+    left: 302px;
+    top: 270px;
+}
+
+.sylvie{
+    left: 198px;
+    top: 150px;
+}
+
+.justine{
+    left: 230px;
+    top: 150px;
+}
+
+.mickael2{
+    left: 125px;
+    top: 270px;
+}
+
+.mehdi{
+    left: 21px;
+    top: 351px;
+}
